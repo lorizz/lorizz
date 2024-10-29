@@ -2,7 +2,7 @@
 
 Hey there! I'm a Senior Developer with a passion for coding and an obsession for performance — both in code and cars. Let me introduce myself in style. 🏎️
 
-## 💻 My Skills
+## 💻 My Skills (WIP)
 
 Here’s a breakdown of my skills. I’m not just here to play; I’m here to **win**.
 
